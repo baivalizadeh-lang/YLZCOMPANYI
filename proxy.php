@@ -15,7 +15,7 @@ $html = curl_exec($ch);
 curl_close($ch);
 
 // حذف نام heyzine از لینک‌ها
-$html = str_replace('https://heyzine.com', 'https://ylzcompanyyi.com/proxy', $html);
+$html = str_replace('https://heyzine.com', 'https://heyzine.com/flip-book/0238838935.html', $html);
 
 // خروجی به مرورگر
 header('Content-Type: text/html; charset=UTF-8');
