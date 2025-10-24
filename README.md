@@ -8,7 +8,7 @@
 2. iframe زیر را در صفحهٔ وبتان قرار دهید (آدرس را با دامنهٔ خودتان عوض کنید):
    ```html
    <iframe 
-     src="https://ylzcompanyyi.com/proxy.php?id=0238838935"
+     src=https://heyzine.com/flip-book/0238838935.html
      style="border:1px solid lightgray; width:100%; height:500px;"
      frameborder="0" 
      allowfullscreen>
